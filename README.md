@@ -6,10 +6,7 @@ You could have some problems with *empire_text_convert.py*, because in this file
 
 ## Authors
 
-* Takuma - [Metin2Work](https://github.com/devTakuma)
-
-# Find me on my website:
-## You can find me on : [Game-Emulation](http://game-emulation.com/)
+* Takuma - [Mail](mailto:work.takuma@gmail.com) - Discord: Takuma#0075
 
 ## License
 
